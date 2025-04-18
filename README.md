@@ -1,5 +1,3 @@
-# Info
-About my contact 
 <!DOCTYPE html>
 <html lang="en">
 <head>
